@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AppTraductor_Grupo"
+rootProject.name = "TurKids"
 include(":app")
